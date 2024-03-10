@@ -1,2 +1,2 @@
-# randomColor
-Random color changer page using DOM Events. 🎨
+# Random Colour Generator
+A page that generates random colors using DOM Events.
